@@ -1,3 +1,9 @@
+# Fixing CVE-2023-28155
+
+Forked to fix [CVE-2023-28155](https://github.com/request/request/issues/3442) 
+
+Implementing [pull # 3444](https://github.com/request/request/pull/3444) on upstream repo
+
 # Deprecated!
 
 As of Feb 11th 2020, request is fully deprecated. No new changes are expected to land. In fact, none have landed for some time.
